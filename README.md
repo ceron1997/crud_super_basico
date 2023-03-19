@@ -3,7 +3,7 @@ crud en java y mysql que puede servir para prueba tecnica
 
 
 primero se crea la vista 
-junto a esta o despues se crea la base de datos 
+junto a esta o despues se crea la base de datos   - la tabla cliente no usa autoincrement 
 
 luego se establece la conexion 
 creamos la clase modelo y la dao 
